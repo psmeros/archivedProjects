@@ -1,3 +1,3 @@
-# My current sideProjects
+### My current side projects
 
-## ML 2017 project
+* ML 2017 project
